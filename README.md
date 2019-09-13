@@ -82,6 +82,6 @@ This one's a bit weird, until you get the hang of it. Consider this sexy move:
 R'D'RD
 ```
 
-(or, honestly, *any* sexy move pair including a side face and the down face). Do it 6 times. Hey, we're back where we started! In group theoretic terms, the sexy move has an order of 6. Here's the interesting thing. Do it 2 times, and look at the URF corner. It's the same as it was at the beginning, but it's oriented differently. Now do it another 2 times. Same thing. Now do it another 2 times. You're back where you started. So, here's the tricky bit. Since you have different corners that need to be oriented, what you do is to do 2x or 4x the sexy move, then do an Up face rotation, then finish the last 2x or 4x of the sexy move to repair the lower two layers.
+(or, honestly, *any* sexy move pair including a side face and the down face). Do it 6 times. Hey, we're back where we started! In group theoretic terms, the sexy move has an order of 6. Here's the interesting thing. Do it 2 times, and look at the URF corner. It's in the same location as it was at the beginning, but it's oriented differently. Now do it another 2 times. Same thing. Now do it another 2 times. You're back where you started. So, here's the tricky bit. Since you have different corners that need to be oriented, what you do is to do 2x or 4x the sexy move, then do an Up face rotation, then finish the last 2x or 4x of the sexy move to repair the lower two layers.
 
 Done!
