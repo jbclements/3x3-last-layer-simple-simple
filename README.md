@@ -1,6 +1,6 @@
 # 3x3-last-layer for the curious and mathematically inclined, minimizing memorization
 
-The fewest algs required for a 3x3 last layer, AFAIK
+The fewest algs required for a 3x3 last layer, AFAIK. Many thanks to Xavier Clements for reminding me of these moves.
 
 # Move Notation
 
