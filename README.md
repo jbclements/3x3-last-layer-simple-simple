@@ -33,7 +33,7 @@ Here's the simple plan:
 3) permute the four remaining corner pieces, and
 4) orient the four remaining corner pieces.
 
-Each of these can be accomplished with a single algorinthm (sequence). I'd like to emphasize here that my only metric here is "least memorization". I don't care at all about speed, I'm just showing what I believe to be the method that requires the least memorization.
+Each of these can be accomplished with a single algorithm (sequence). I'd like to emphasize here that my only metric here is "least memorization". I don't care at all about speed, I'm just showing what I believe to be the method that requires the least memorization.
 
 Also, as you'll see, my approach is going to lean very heavily on your own ability to observe & discover.
 
