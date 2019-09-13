@@ -1,4 +1,5 @@
-# 3x3-last-layer-simple-simple
+# 3x3-last-layer for the curious and mathematically inclined, minimizing memorization
+
 The fewest algs required for a 3x3 last layer, AFAIK
 
 # Move Notation
