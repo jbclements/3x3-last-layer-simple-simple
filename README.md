@@ -18,7 +18,7 @@ We use a face name to represent a clockwise motion, and a "prime"d name for a co
 
 # Mathy overview
 
-A 3x3 puzzle is essentially an exercise in physical group theory. A puzzle consists of corner pieces and edge pieces. The corners can be permuted and independently oriented (subject to some parity constraints; you can't just rotate one corner through a set of legal moves), and the edges can be permuted and independently oriented.
+A 3x3 puzzle is essentially an exercise in physical group theory. A puzzle consists of corner pieces and edge pieces. The corners can be permuted and independently oriented (subject to some parity constraints; you can't rotate just *one* corner through a set of legal moves), and the edges can be permuted and independently oriented.
 
 Most solution plans essentially consists of an ordering on permutation & orientation "fixes" in a predetermined order. One standard plan is to do orientation and permutation simultaneously to bring a full layer into correctness, then do the same for the edges that make up the second layer, then tackle the last layer. 
 
